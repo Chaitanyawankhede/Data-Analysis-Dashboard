@@ -16,7 +16,7 @@ The Vrinda Store wants to create an manual sales report for 2022. So that, the o
 - Highets selling category
 - Percentage of Total Orders delivered
 
-- Dashboard Interaction <a href="" >View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/Chaitanyawankhede/Data-Analysis-Dashboard/blob/main/README.md">View Dashboard</a>
 
 ## Process
 - Verify data for my missing values and anomalies, and sort out the same.
