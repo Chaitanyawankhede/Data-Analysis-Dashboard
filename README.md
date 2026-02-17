@@ -23,3 +23,5 @@ The Vrinda Store wants to create an manual sales report for 2022. So that, the o
 - Make sure data is consistent and clean with respect to datatype, data format and values used.
 - Created pivot tables according to the question asked.
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+
+## Dashboard
